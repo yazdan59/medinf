@@ -10,8 +10,8 @@ Sep-Dec 2019, lectures are held on Mondays 1:00 to 3:00 PM at Class#1, School of
 | Date | Title | Description | Reference |
 | --- | --- | --- | --- |
 | 98/7/1 | Introduction | Some Information about Course Contents, References, Exam Strategies | -- |
-| 98/7/8 | Database Concepts, Scientific Search Engines | Learning about Primary Keys vs. Secondary Keys, Relational Databases | -- |
-| 98/7/15 | Advanced PubMed Search | Learning how to obtain our desired answers via online search in a better and faster way | -- |
+| 98/7/8 | Database Concepts, Scientific Search Engines | Learning about Primary Keys vs. Secondary Keys, Relational Databases | [(Slide)](/slides/01-02-Intro.pdf) |
+| 98/7/15 | Advanced PubMed Search | Learning how to obtain our desired answers via online search in a better and faster way | [(Slide)](/slides/03-Search-Pubmed.pdf) |
 | 98/7/22 | Journals and Publishers, Students’ Seminars | Learning About high ranked journals and publishers in medical biotechnology field | -- |
 | 98/7/29 | Scientific Indices (Journals and Scientists) | Learning About various Scientific Indices | -- |
 | 98/8/13 | Some Important Databases for Medical Biotechnology, Students’ Seminars | Learning about some biological databases needed for a medical biotechnology student | -- |
