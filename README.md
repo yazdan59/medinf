@@ -1,5 +1,5 @@
 # Medical Informatics Course (Overview)
-
+Medical Informatics tries to combine different types of information with computer-aided systems. In summary, it deals with resources, devices, and methods required to optimize acquisition, storage, retrieval, and use of information in health and biomedicine. Since this is a major field of study and could not be covered through a course, we just rely on studying the useful resources related to Medical Biotechnology. We also introduce some important scientific concepts every scientist should know in 21st century. 
 # Instructor: 
 Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/faculties/yasgari))
 # Time & Location: 
