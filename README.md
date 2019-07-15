@@ -5,7 +5,7 @@ Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/facu
 # Time & Location: 
 Sep-Dec 2019, lectures are held on Mondays 1:00 to 3:00 PM at Class#1, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences, practical sessions are held on Sundays 10:00 to 12:00 at computer room (2nd floor), School of Advanced Technologies in Medicine, Tehran University of Medical Sciences
 # Exam
-
+The Score for this course would be taken through two parts: creation of five persian wikipedia pages for keywords related to a medical biotechnology concept, and a Final Exam.
 # Lecture Schedule
 | Date | Title | Description | Reference |
 | --- | --- | --- | --- |
