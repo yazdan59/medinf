@@ -2,7 +2,7 @@
 ## Overview
 Medical Informatics tries to combine different types of information with computer-aided systems. In summary, it deals with resources, devices, and methods required to optimize acquisition, storage, retrieval, and use of information in health and biomedicine. Since this is a major field of study and could not be covered through a course, we just rely on studying the useful resources related to Medical Biotechnology. We also introduce some important scientific concepts every scientist should know in 21st century. 
 ## Instructor: 
-Dr. Yazdan Asgari (yasgari at tums.ac.ir) ([Webpage](https://www.tums.ac.ir/faculties/yasgari))
+Dr. Yazdan Asgari ([Webpage](https://yazdan59.github.io/))
 ## Time & Location: 
 Sep-Dec 2019, lectures are held on Mondays 1:00 to 3:00 PM at Class#1, School of Advanced Technologies in Medicine, Tehran University of Medical Sciences, practical sessions are held on Sundays 10:00 to 12:00 at computer room (2nd floor), School of Advanced Technologies in Medicine, Tehran University of Medical Sciences
 ## Exam
